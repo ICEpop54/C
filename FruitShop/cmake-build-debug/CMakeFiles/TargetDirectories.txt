@@ -1,0 +1,3 @@
+C:/Users/Ranithu/CLionProjects/FruitShop/cmake-build-debug/CMakeFiles/FruitShop.dir
+C:/Users/Ranithu/CLionProjects/FruitShop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ranithu/CLionProjects/FruitShop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
